@@ -5,7 +5,8 @@
 }
 body {
   line-height: 1.4;
-  color: var(--dark);
+  color:var(--dark);
+  backgroundcolor:black;
 }
 p {
   font-family: Quicksand;
